@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 ## ⚙️&nbsp;Frameworks
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-bootstrap-48.png"/></a></div>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-nodejs-96.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-typescript-48.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/angular_A.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-android-os-48.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/64px-Android_Studio_icon.svg.png"/></a>
+
 
 ## 🧰&nbsp;Tools
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-intellij-idea-48.png"/></a>
@@ -43,8 +48,6 @@ Here are some ideas to get you started:
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-gimp.png"/></a></div>
 
 ## 📖&nbsp;Currently learning
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-typescript-48.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/angular_A.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-android-os-48.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/64px-Android_Studio_icon.svg.png"/></a>
+
+
 
